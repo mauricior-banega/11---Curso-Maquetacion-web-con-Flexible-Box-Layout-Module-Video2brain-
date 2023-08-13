@@ -1,0 +1,56 @@
+<!--
+
+   Curso Maquetacion web con Flexible Box Layout Module (Curso VideotuBrain) - Carpeta Nº 11 
+
+   Temas: 
+    
+    -Video 01: Introducción a Maquetación con Flexible Box Layout Module
+
+                -01.0.Presentación
+                -01.1.Objetivos de Maquetación con Flexible Box Layout Module
+                -01.2.Archivos de Maquetación con Flexible Box Layout Module
+                -01.3.Qué es Flex Grid Layout y por qué debemos usarlo
+                -01.4.Requisitos técnicos necesarios para realizar el curso
+
+    -Video 02: Establecer una estructura base con Flexible Box Layout
+
+                -02.1.Elementos que configuran el Flex Box Grid Layout
+                -02.2.Terminología relacionada con Flex Box Layout Module
+
+    -Video 03: Propiedades del elemento contenedor de Flexible Box Layout
+
+                -03.1.La propiedad display y sus valores en una rejilla flexible
+                -03.2.Flex-flow en plantillas de rejilla flexible
+                -03.3.Alineación vertical de elementos HTML justify-content
+                -03.4.Alineación horizontal y uso con la propiedad align-items
+
+    -Video 04: Propiedades del elemento contenedor de Flexible Box Layout
+
+                -04.1.Order y su valor numérico nos ayudará con el responsive
+                -04.2.La forma corta de flex nos ayudara con los elementos HTML
+                -04.3.Flex-grow controla las dimensiones de un elemento
+                -04.4.Flex-shrink especificará el tamaño del elemento
+                -04.5.Flex-basis define el tamaño predeterminado de un elemento
+                -04.6.Atributos que no afectan y compatibilidad entre navegadores
+                -04.7.Compatibilidad entre navegadores
+
+    -Video 05: Ejercicio práctico diseño de un proyecto web real
+
+                -05.1.Objetivo del ejercicio con Flexible Box Layout Module
+                -05.2.Definición de la estructura HTML de nuestro diseño
+                -05.3.Responsive y flexgrid, elementos para crear proyectos web
+                -05.4.Implementación de Flexible Box Layout con nuestro diseño
+                -05.5.Despedida de Maquetación web con Flexible Box Layout Module
+
+
+   -----------------------------------------------------------------------------------
+
+
+    ACLARACION: -Descripcion del practico aclara los temas que contiene este curso. En el se explican la importancia del uso del Flex Box.
+                -En el practico index.html y styles.css de esta carpeta explicamos como afecta cada propiedad al archivo.
+                -El archivo es identico al creado en el practico Nº 8-Diseño web responsive con CSS con algunas modificaciones (sin tener casi estilos en el css) para ver mas claramente como impactan los cambios del flex en DETALLE.
+
+    DOCUMENTOS DEL PRACTICO: index.html / style.css / Descripcion del plactico
+
+-->
+
